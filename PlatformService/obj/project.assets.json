@@ -3550,11 +3550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cbejenar\\source\\repos\\microservices-course\\PlatformService\\PlatformService.csproj",
+      "projectUniqueName": "C:\\Users\\cbejenar\\source\\repos\\microservices-poc\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "C:\\Users\\cbejenar\\source\\repos\\microservices-course\\PlatformService\\PlatformService.csproj",
+      "projectPath": "C:\\Users\\cbejenar\\source\\repos\\microservices-poc\\PlatformService\\PlatformService.csproj",
       "packagesPath": "C:\\Users\\cbejenar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cbejenar\\source\\repos\\microservices-course\\PlatformService\\obj\\",
+      "outputPath": "C:\\Users\\cbejenar\\source\\repos\\microservices-poc\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cbejenar\\AppData\\Roaming\\NuGet\\NuGet.Config",
